@@ -22,6 +22,13 @@ Opt parse https://docs.python.org/2/library/optparse.html
 
 Desigion Making https://www.tutorialspoint.com/python/python_decision_making.htm
 
+Files:
+
+Version 1 = mac.py
+
+Version 2 = mac1.py
+
+Variation 1 = st3g3xtract.py
 
 # Part 3 Mac Changer Algorhitm Design
 
