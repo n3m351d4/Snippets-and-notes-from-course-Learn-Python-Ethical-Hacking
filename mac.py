@@ -18,7 +18,7 @@ parser.add_option("-m", "--mac", dest="new_mac", help="New MAC address")
 
 # variables:
 # interface = "eth0"
-# new_mac = "08:00:27:5b:b1:a6"
+# new_mac = "00:00:00:00:00:00"
 
 # variables for input - options
 
