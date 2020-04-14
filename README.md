@@ -24,11 +24,11 @@ Desigion Making https://www.tutorialspoint.com/python/python_decision_making.htm
 
 Files:
 
-Version 1 = mac.py
+##### Version 1 = [mac.py](https://github.com/n3m351d4/Snippets-and-notes-from-course-Learn-Python-Ethical-Hacking/blob/master/mac.py)
 
-Version 2 = mac1.py
+##### Version 2 = [mac1.py](https://github.com/n3m351d4/Snippets-and-notes-from-course-Learn-Python-Ethical-Hacking/blob/master/mac1.py)
 
-Variation 1 = st3g3xtract.py
+##### Variation 1 = [st3g3xtract.py](https://github.com/n3m351d4/Snippets-and-notes-from-course-Learn-Python-Ethical-Hacking/blob/master/st3g3xtract.py)
 
 # Part 3 Mac Changer Algorhitm Design
 
@@ -40,6 +40,6 @@ Regular expressions https://pythex.org/
 
 Re module https://docs.python.org/2/library/re.html
 
-Version 2 = mac2.py
+##### Version 3 = [mac2.py](https://github.com/n3m351d4/Snippets-and-notes-from-course-Learn-Python-Ethical-Hacking/blob/master/mac2.py)
 
 # [Part 4, 5, 6](https://github.com/n3m351d4/Snippets-and-notes-from-course-Learn-Python-Ethical-Hacking/blob/master/4-6.md)
