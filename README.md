@@ -41,3 +41,5 @@ Regular expressions https://pythex.org/
 Re module https://docs.python.org/2/library/re.html
 
 Version 2 = mac2.py
+
+# [Part 4, 5, 6](https://github.com/n3m351d4/Snippets-and-notes-from-course-Learn-Python-Ethical-Hacking/blob/master/4-6.md)
